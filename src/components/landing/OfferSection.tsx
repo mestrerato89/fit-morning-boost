@@ -8,7 +8,7 @@ const OfferSection = () => {
           De R$97,00
         </p>
         <p className="mt-2 text-5xl font-extrabold text-secondary">
-          12x de R$9,74
+          12x de R$37,85
         </p>
         <p className="mt-1 text-sm text-muted-foreground">
           Ou R$97 à vista (economize R$20)
