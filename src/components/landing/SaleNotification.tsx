@@ -53,7 +53,9 @@ const SaleNotification = () => {
       }`}
     >
       <div className="flex items-start gap-3">
-        <span className="mt-0.5 text-xl">🛒</span>
+        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-secondary/15 text-lg font-bold text-secondary">
+          {notification.name.charAt(0)}
+        </div>
         <div>
           <p className="text-sm font-bold text-foreground">
             {notification.name}
