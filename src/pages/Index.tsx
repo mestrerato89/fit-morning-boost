@@ -8,12 +8,15 @@ import SocialProofSection from "@/components/landing/SocialProofSection";
 import GuaranteeSection from "@/components/landing/GuaranteeSection";
 import FAQSection from "@/components/landing/FAQSection";
 import StickyFooter from "@/components/landing/StickyFooter";
+import StickyHeader from "@/components/landing/StickyHeader";
 import ProgressBar from "@/components/landing/ProgressBar";
+import SaleNotification from "@/components/landing/SaleNotification";
 
 const Index = () => {
   return (
     <main className="min-h-screen pb-20">
       <ProgressBar />
+      <StickyHeader />
       <HeroSection />
       <PainSection />
       <SolutionSection />
@@ -24,6 +27,7 @@ const Index = () => {
       <GuaranteeSection />
       <FAQSection />
       <StickyFooter />
+      <SaleNotification />
     </main>
   );
 };
