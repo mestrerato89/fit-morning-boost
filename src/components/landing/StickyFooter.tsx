@@ -22,7 +22,7 @@ const StickyFooter = () => {
         <div>
           <p className="text-xs text-muted-foreground">Por apenas</p>
           <p className="text-lg font-extrabold text-secondary">
-            12x R$37,85
+            R$37,85
           </p>
         </div>
         <a

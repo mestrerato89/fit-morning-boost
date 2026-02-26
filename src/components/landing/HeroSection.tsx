@@ -7,7 +7,7 @@ const HeroSection = () => {
         {/* Urgency Badge */}
         <div className="mb-6 flex justify-center">
           <span className="badge-pulse inline-block rounded-full bg-destructive px-4 py-2 text-sm font-bold text-destructive-foreground shadow-lg">
-            ⚡ PROMOÇÃO POR TEMPO LIMITADO: 70% OFF
+            ⚡ PROMOÇÃO POR TEMPO LIMITADO: 61% OFF
           </span>
         </div>
 
