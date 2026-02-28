@@ -5,7 +5,7 @@ const testimonials = [
 ];
 
 const stats = [
-  { number: "5.000+", label: "e-books vendidos" },
+  { number: "5.000+", label: "receitas vendidas" },
   { number: "4.9/5", label: "estrelas de avaliação" },
   { number: "98%", label: "recomendam para amigas" },
 ];
