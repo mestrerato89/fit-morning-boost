@@ -26,7 +26,7 @@ const StickyFooter = () => {
           </p>
         </div>
         <a
-          href="https://pay.cakto.com.br/vtfffq7_792653"
+          href="#oferta"
           className="pulse-cta rounded-lg bg-secondary px-6 py-3 text-sm font-extrabold text-secondary-foreground shadow-lg transition-all hover:brightness-110"
         >
           COMPRAR AGORA →
