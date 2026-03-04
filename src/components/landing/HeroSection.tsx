@@ -37,7 +37,7 @@ const HeroSection = () => {
 
         {/* CTA Button */}
         <a
-          href="#oferta"
+          href="https://pay.cakto.com.br/vtfffq7_792653"
           className="pulse-cta mx-auto block w-[90%] rounded-xl bg-primary py-5 text-center text-lg font-extrabold text-primary-foreground shadow-xl transition-all hover:brightness-110"
         >
           QUERO COMEÇAR A EMAGRECER COMENDO BEM →

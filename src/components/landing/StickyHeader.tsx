@@ -25,7 +25,7 @@ const StickyHeader = () => {
           ☀️ 200 Receitas Fit
         </span>
         <a
-          href="#oferta"
+          href="https://pay.cakto.com.br/vtfffq7_792653"
           className="pulse-cta rounded-lg bg-primary px-5 py-2 text-sm font-extrabold text-primary-foreground shadow-lg transition-all hover:brightness-110"
         >
           QUERO AGORA — R$37,85

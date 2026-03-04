@@ -23,7 +23,7 @@ const OfferSection = () => {
 
         {/* CTA */}
         <a
-          href="#"
+          href="https://pay.cakto.com.br/vtfffq7_792653"
           className="pulse-cta mt-8 block rounded-xl bg-primary py-5 text-center text-lg font-extrabold text-primary-foreground shadow-xl transition-all hover:brightness-110"
         >
           SIM! QUERO EMAGRECER COMENDO GOSTOSO →
